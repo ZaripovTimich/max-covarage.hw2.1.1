@@ -4,22 +4,6 @@ import org.junit.Assert.*
 
 class MainKtTest {
 
-    /*@Test
-    fun main_MasterCardTrue() {
-//        val typeCard = 2
-//        val previous = 0.0
-//        val amount = 76000.0
-        val typeCard = 0
-        val expected = 0
-        val delta = 1000
-
-        val result = main(
-
-        )
-
-        assertEquals(expected, result)
-    }*/
-
     @Test
     fun typeCard_VKPay() {
         val typeCard = 1
