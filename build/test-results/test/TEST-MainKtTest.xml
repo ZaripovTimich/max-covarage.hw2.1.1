@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-02-19T16:07:06" hostname="LAPTOP-G43A725R" time="0.017">
+  <properties/>
+  <testcase name="typeCard_WorldFalse" classname="MainKtTest" time="0.011"/>
+  <testcase name="typeCard_MasterCardFalse" classname="MainKtTest" time="0.0"/>
+  <testcase name="typeCard_MasterCardTrue2" classname="MainKtTest" time="0.001"/>
+  <testcase name="typeCard_WorldTrue" classname="MainKtTest" time="0.0"/>
+  <testcase name="typeCard_VKPay" classname="MainKtTest" time="0.001"/>
+  <testcase name="typeCard_VisaFalse" classname="MainKtTest" time="0.0"/>
+  <testcase name="typeCard_MaestroTrue" classname="MainKtTest" time="0.0"/>
+  <testcase name="typeCard_VisaTrue" classname="MainKtTest" time="0.001"/>
+  <testcase name="typeCard_MaestroFalse" classname="MainKtTest" time="0.001"/>
+  <testcase name="typeCard_MaestroTrue2" classname="MainKtTest" time="0.0"/>
+  <testcase name="typeCard_MasterCardTrue" classname="MainKtTest" time="0.0"/>
+  <system-out><![CDATA[Сумма комиссии: 0.75
+Сумма перевод с комиссией: 99.25 Руб
+Сумма комиссии: 0.0
+Сумма перевод с комиссией: 10000.0 Руб
+Сумма комиссии: 26.0
+Сумма перевод с комиссией: 974.0 Руб
+Сумма комиссии: 35.00
+Сумма перевод с комиссией: 69.0 Руб
+Сумма перевод с комиссией: 76000.0 Руб
+Сумма комиссии: 0.75
+Сумма перевод с комиссией: 99.25 Руб
+Сумма комиссии: 476.0
+Сумма перевод с комиссией: 75524.0 Руб
+Сумма комиссии: 35.00
+Сумма перевод с комиссией: 69.0 Руб
+Сумма комиссии: 0.0
+Сумма перевод с комиссией: 10000.0 Руб
+Сумма комиссии: 26.0
+Сумма перевод с комиссией: 974.0 Руб
+Сумма комиссии: 476.0
+Сумма перевод с комиссией: 75524.0 Руб
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
