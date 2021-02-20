@@ -6,7 +6,7 @@ class MainKtTest {
 
     @Test
     fun typeCard_VKPay() {
-        val typeCard = 0
+        val typeCard = 1
         val previous = 0.0
         val amount = 76000.0
         val expected = 0.0
@@ -25,7 +25,7 @@ class MainKtTest {
     fun typeCard_MasterCardTrue() {
         val typeCard = 2
         val previous = 0.0
-        val amount = 76000.0
+        val amount = 74000.0
         val expected = 76000.0
         val delta = 1000.0
 
