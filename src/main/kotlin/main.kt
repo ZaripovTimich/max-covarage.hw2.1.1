@@ -14,7 +14,7 @@ fun main() {
                 "0.Выход"
         )
 
-        val typeCard = scanner.nextInt()
+        val typeCard = scanner.nextLine()
         if (typeCard == 0) break
 
         print("Введите сумму перевода: ")
